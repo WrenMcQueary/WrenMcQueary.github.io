@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Software engineering, robotics, game development, 3D modeling and rendering
 
-You can use the [editor on GitHub](https://github.com/WrenMcQueary/WrenMcQueary.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my portfolio!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Wren_McQueary_Office_Photo_1_Blurred.png](/images/Wren_McQueary_Office_Photo_1_Blurred.png "Wren_McQueary_Office_Photo_1_Blurred.png")
 
-### Markdown
+I seek to use my wide background in computer science, AI, robotics, and mechanical engineering for social good.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I love both learning new skills from others and using my education background to teach them in kind.  I hope to use my skill set and passion for growth to further connect and elevate your team.
 
-```markdown
-Syntax highlighted code block
+MS **Computer Science**, George Mason University, May 2023
 
-# Header 1
-## Header 2
-### Header 3
+BS **Mechanical Engineering**, Northwestern University, June 2019
 
-- Bulleted
-- List
+BS **Theatre**, Northwestern University, June 2019
 
-1. Numbered
-2. List
+TODO: Buttons
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WrenMcQueary/WrenMcQueary.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+wren.mcqueary@gmail.com
