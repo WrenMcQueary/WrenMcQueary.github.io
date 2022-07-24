@@ -46,8 +46,6 @@ Now, I am undergoing a computer science MS with an emphasis on machine learning,
 
 TODO: Buttons
 
-Now, I am undergoing a computer science MS with an emphasis on machine learning, robotics, and graphics, so that I can develop more intricate and impactful solutions for social problems.  Currently I am working as a paid research assistant in the INSPIRED Lab of Dr. Brittany Johnson, where we are developing a tool to improve the ease of debugging machine learning models, including removing unethical biases from models deployed in social contexts.  At the same time, I am satisfying my interests in robotics for social good by volunteering in the DCXR Lab of Dr. Lap-Fai (Craig) Yu, where we are collaborating with another lab to create a teleoperated robot that can be used in search-and-rescue contexts.
-
 ​
 
 wren.mcqueary@gmail.com
