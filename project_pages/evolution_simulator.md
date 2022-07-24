@@ -21,3 +21,7 @@ This was my first time using a program to teach math concepts to students at KID
 I learned how to use matplotlib to create an array of multiple plots in a single window, to allow for easier analysis of results.
 
 ![Code snippet](/images/projects/evolution_simulator/code_snippet.png)
+
+<br/><br/>
+
+wren.mcqueary@gmail.com
