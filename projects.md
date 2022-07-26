@@ -40,7 +40,8 @@ Take a look at my projects to see more details.
 
 <br/><br/>
 
-[Get in touch](https://wrenmcqueary.github.io/contact)
+| [Get in touch](https://wrenmcqueary.github.io/contact)      |
+| :---:        |
 
 <br/><br/>
 
