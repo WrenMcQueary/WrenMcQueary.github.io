@@ -12,13 +12,13 @@ In the virtual environment, realistic acoustics are paramount, due to the import
 
 See below for an image of one of our environments, along with another image in which the invisible acoustic doubles are revealed.
 
-![Medical center room no occluders](/images/projects/telerobotics_training/Medical_center_room_no_occluders.png)
+![Medical center room no occluders](/images/projects/telerobotics_training/medical_center_room_no_occluders.png)
 
 ## Skills gained
 
 By engineering realistic acoustics for our training simulations, I learned how to use industry-standard acoustic tools such as Resonance and FMOD.
 
-![Medical center room with occluders](/images/projects/telerobotics_training/Medical_center_room_with_occluders.png)
+![Medical center room with occluders](/images/projects/telerobotics_training/medical_center_room_with_occluders.png)
 
 <br/><br/>
 
