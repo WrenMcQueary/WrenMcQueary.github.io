@@ -1,9 +1,5 @@
 # Rover maze
 
-TODO: Interactive code (replit) button
-
-TODO: GitHub repository button
-
 | [Interactive code (replit)](https://replit.com/@WrenMcQueary/rover-maze#.replit)      | [GitHub repository](https://github.com/WrenMcQueary/rover-maze) |
 | :---:        |    :----:   |
 
