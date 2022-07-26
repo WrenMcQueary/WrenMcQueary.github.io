@@ -1,6 +1,7 @@
 # Profanity bleeping
 
-[GitHub repository](https://github.com/WrenMcQueary/profanity-bleeping)
+| [GitHub repository](https://github.com/WrenMcQueary/profanity-bleeping)      |
+| :---:        |
 
 ## Summary
 
