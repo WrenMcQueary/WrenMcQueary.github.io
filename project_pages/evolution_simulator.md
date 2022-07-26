@@ -1,8 +1,7 @@
 # Evolution simulator
 
-[Interactive code (replit)](https://replit.com/@WrenMcQueary/evolutionsimulator#main.py)
-
-[GitHub repository](https://github.com/WrenMcQueary/evolution-simulator)
+| [Interactive code (replit)](https://replit.com/@WrenMcQueary/evolutionsimulator#main.py)      | [GitHub repository](https://github.com/WrenMcQueary/evolution-simulator) |
+| :---:        |    :----:   |
 
 ## Summary
 
