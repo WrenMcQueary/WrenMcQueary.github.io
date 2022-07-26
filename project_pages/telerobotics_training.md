@@ -2,9 +2,7 @@
 
 ## Summary
 
-TODO: Link on the first occurrence of the word "here"
-
-As discussed here, I'm currently collaborating with the DCXR Lab of Dr. Craig Yu at George Mason University, as well as the SubT Lab of Dr. Nick Wang at NYCU in Hsinchu, Taiwan, to build a robot for use in search-and-rescue missions.  The robot is piloted remotely, and is designed to facilitate spatial interpretation of sounds, to assist its pilot in locating calls for help and other critical sounds with high accuracy.
+As discussed [here](https://WrenmcQueary.github.io/project_pages/teleoperated_rescue_robot), I'm currently collaborating with the DCXR Lab of Dr. Craig Yu at George Mason University, as well as the SubT Lab of Dr. Nick Wang at NYCU in Hsinchu, Taiwan, to build a robot for use in search-and-rescue missions.  The robot is piloted remotely, and is designed to facilitate spatial interpretation of sounds, to assist its pilot in locating calls for help and other critical sounds with high accuracy.
 
 To provide the pilot with rapid, easy, and effective field training, I am pair-programming with another researcher to develop a training simulation, which will provide the pilot with missions completed by a virtual simulacrum of the robot in Unity and Gazebo.  This allows more pilots than robots to train at once, protects real robots from damage during training, and eliminates the need for a painstakingly orchestrated real training environment.
 
