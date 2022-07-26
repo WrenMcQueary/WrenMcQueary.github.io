@@ -1,6 +1,6 @@
 # Profanity bleeping
 
-TODO: GitHub repository button
+[GitHub repository](https://github.com/WrenMcQueary/profanity-bleeping)
 
 ## Summary
 
