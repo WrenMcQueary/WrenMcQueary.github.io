@@ -1,6 +1,7 @@
 # Zombie slayer
 
-TODO: External website button
+| [External website](https://talmadgeeller.github.io/Zombie-Slayer/)      |
+| :---:        |
 
 ## Summary
 I spearheaded a team of 5 students to create a VR game with a 250 acre explorable world in Unity using C#.  Our first-person fantasy action game allows the player to fight creatively against a horde of zombies.
