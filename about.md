@@ -44,9 +44,8 @@ Now, I am undergoing a computer science MS with an emphasis on machine learning,
 
 <br/><br/>
 
-[Contact](https://WrenMcQueary.github.io/contact)
-
-[Projects](https://WrenMcQueary.github.io/projects)
+| [Contact](https://WrenMcQueary.github.io/contact)      | [Projects](https://WrenMcQueary.github.io/projects) |
+| :---:        |        :---: |
 
 <br/><br/>
 
