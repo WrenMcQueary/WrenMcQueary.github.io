@@ -1,8 +1,8 @@
 # Evolution simulator
 
-TODO: Interactive code (replit) button
+[Interactive code (replit)](https://replit.com/@WrenMcQueary/evolutionsimulator#main.py)
 
-TODO: GitHub button
+[GitHub repository](https://github.com/WrenMcQueary/evolution-simulator)
 
 ## Summary
 
