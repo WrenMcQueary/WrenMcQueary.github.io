@@ -1,6 +1,6 @@
 # ML causal testing
 
-TODO: GitHub button
+[(Private) GitHub](https://github.com/INSPIRED-GMU/py-holmes)
 
 ## Summary
 
