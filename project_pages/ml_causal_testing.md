@@ -1,6 +1,7 @@
 # ML causal testing
 
-[(Private) GitHub](https://github.com/INSPIRED-GMU/py-holmes)
+| [(Private) GitHub](https://github.com/INSPIRED-GMU/py-holmes)      |
+| :---:        |
 
 ## Summary
 
