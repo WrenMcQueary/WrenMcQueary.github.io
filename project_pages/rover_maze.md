@@ -4,6 +4,9 @@ TODO: Interactive code (replit) button
 
 TODO: GitHub repository button
 
+| [Interactive code (replit)](https://replit.com/@WrenMcQueary/rover-maze#.replit)      | [GitHub repository](https://github.com/WrenMcQueary/rover-maze) |
+| :---:        |    :----:   |
+
 ## Summary
 
 While working at KID Musuem, I developed this game to teach students how to design finite state machines for use in robotics classes and workshops.  I used Prim's algorithm to generate random mazes to be solved by a robot with limited sensing abilities.
