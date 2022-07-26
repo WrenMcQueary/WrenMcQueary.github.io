@@ -2,6 +2,8 @@
 
 ## Summary
 
+TODO: Make "this page" link to telerobotics_training.md
+
 I'm currently collaborating with the DCXR Lab of Dr. Craig Yu at George Mason University, as well as the SubT Lab of Dr. Nick Wang at NYCU in Hsinchu, Taiwan, to build a robot for use in search-and-rescue missions.  The robot is piloted remotely, and is designed to facilitate spatial interpretation of sounds, to assist its pilot in locating calls for help and other critical sounds with high accuracy.
 
 The pilot controls the robot via a VR setup, for easy delivery of spatial audio (which is captured by an array of 3 microphones), and to allow for intuitive viewing of the robot's surroundings (which are captured by a 360 degree array of cameras).
