@@ -22,7 +22,12 @@ BS **Theatre**, Northwestern University, June 2019
 
 <br/><br/>
 
-TODO: Buttons
+
+[More about me](https://WrenMcQueary.github.io/about)
+
+[Get in touch](https://WrenMcQueary.github.io/contact)
+
+[Projects](https://WrenMcQueary.github.io/projects)
 
 <br/><br/>
 
