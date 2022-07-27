@@ -7,6 +7,6 @@
       values:
         sidebar:
           nav: "main"
-  ---      
+---      
 theme: github-pages-minimal
 markdown: GFM
