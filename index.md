@@ -1,14 +1,3 @@
----
-sidebar:
-  - title: "Title"
-    image: "/assets/images/your-image.jpg"
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-    nav: sidebar-sample
----
-
 # Software engineering, robotics, game development, 3D modeling and rendering
 
 ## Welcome to my portfolio!
