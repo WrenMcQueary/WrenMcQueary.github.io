@@ -1,6 +1,6 @@
 # Current and past projects
 
-Click project names to see more details.
+Click project names to see more details.  You can also check out my [GitHub page.](https://github.com/WrenMcQueary)
 
 ## Software engineering projects
 | [ML CAUSAL TESTING](https://wrenmcqueary.github.io/project_pages/ml_causal_testing)      | [EVOLUTION SIMULATOR](https://wrenmcqueary.github.io/project_pages/evolution_simulator) | [PROFANITY BLEEPING](https://wrenmcqueary.github.io/project_pages/profanity_bleeping)     |
