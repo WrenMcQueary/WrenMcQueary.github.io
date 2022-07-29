@@ -1,4 +1,3 @@
----
 defaults:
   # _docs
   - scope:
@@ -7,6 +6,5 @@ defaults:
     values:
       sidebar:
         nav: "docs"
----      
 theme: github-pages-minimal
 markdown: GFM
