@@ -9,7 +9,7 @@ Click project names to see more details.  You can also check out my [GitHub page
 | Introducing py-holmes, a tool for machine learning engineers to find the root causes of defects      | Tune environmental pressure, reproductive patterns, and more to change how a population evolves       | Quickly bleep audio in educational videos, for use in high school and college classrooms   |
 
 ## Robotics projects
-| [TELEOPERATED RESCUE ROBOT](https://wrenmcqueary.github.io/project_pages/teleoperated_rescue_robot)      | [DIRECTED ENERGY DEPOSITION COOLING JET](https://wrenmcqueary.github.io/project_pages/directed_energy_deposition_cooling_jet) | [PLAYFUL TENNIS BALL DOG ROBOT](https://wrenmcqueary.github.io/project_pages/playful_tennis-ball_robot)     |
+| [TELEOPERATED RESCUE ROBOT](https://wrenmcqueary.github.io/project_pages/teleoperated_rescue_robot)      | [DIRECTED ENERGY DEPOSITION COOLING JET](https://wrenmcqueary.github.io/project_pages/directed_energy_deposition_cooling_jet) | [PLAYFUL TENNIS BALL DOG ROBOT](https://wrenmcqueary.github.io/project_pages/playful_tennis_ball_robot)     |
 | :---:        |    :----:   |          :---: |
 | ![VR system](/images/projects/teleoperated_rescue_robot/VR-system.png)   | ![Physical layout](/images/projects/directed_energy_deposition_cooling_jet/physical_layout.png)        | ![Code snippet](/images/projects/playful_tennis_ball_dog_robot/code_snippet.png)      |
 | Use VR to remotely pilot a sound-guided rescue robot      | Automatically improve cooling consistency for DED fabricators       | Create a dog-like robot to entertain you or play with your other pets   |
