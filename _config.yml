@@ -9,4 +9,4 @@ defaults:
         nav: "docs"
 ---
 theme: jekyll-theme-minimal
-markdown: GFM
+markdown: kramdown
