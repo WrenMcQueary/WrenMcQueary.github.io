@@ -15,7 +15,3 @@ I produced this part for personal use and subsequently released it on Thingivers
 While completing this project, I learned how to design snap connectors for easy 3D printing.  I also learned how to perform static stress simulations in Fusion 360, having previously performed them in ANSYS.
 
 ![Simulation](/images/projects/hook_stand_for_3D_printers/simulation.png)
-
-<br/><br/>
-
-wren.mcqueary@gmail.com

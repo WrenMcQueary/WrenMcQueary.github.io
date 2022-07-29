@@ -16,6 +16,3 @@ BS **Theatre**, Northwestern University, June 2019
 
 | [More about me](https://WrenMcQueary.github.io/about)      | [Get in touch](https://WrenMcQueary.github.io/contact) | [Projects](https://WrenMcQueary.github.io/projects)     |
 | :---:        |    :----:   |          :---: |
-
-wren.mcqueary@gmail.com
-

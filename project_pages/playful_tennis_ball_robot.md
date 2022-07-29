@@ -17,7 +17,3 @@ I'm in the process of designing and 3D printing a chassis for the robot, with a 
 This project has helped me brush up on using finite state machines for practical purposes.  It also served as a great teaching example for my time working at KID Museum, to show students how many aspects of design can come together to form a complete robot.
 
 ![Tennis Ball Chasing Rover Bot Circuit Diagram Draft 1-1](/images/projects/playful_tennis_ball_dog_robot/Tennis_Ball_Chasing_Rover_Bot_Circuit_Diagram_Draft_1-1.png)
-
-<br/><br/>
-
-wren.mcqueary@gmail.com

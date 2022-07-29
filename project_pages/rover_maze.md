@@ -20,7 +20,3 @@ Note: Replit has been a bit inconsistent about supporting windows created by tki
 I had recently learned unified modeling language before starting this project.  Seeing this project as the perfect opportunity to practice this skill, I maintained a UML graph for the project while developing it, using the graph as a guide for where to create classes, functions, and so on.
 
 ![UML](/images/projects/rover_maze/uml.png)
-
-<br/><br/>
-
-wren.mcqueary@gmail.com

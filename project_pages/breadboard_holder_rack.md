@@ -11,7 +11,3 @@ As someone who does a lot of electronics prototyping both professionally and as 
 This project gave me a fun opportunity to dust off some of my mechanical engineering expertise, particularly in creating trusses that are both materially efficient and elegant.
 
 ![simulation](/images/projects/breadboard_holder_rack/simulation.png)
-
-<br/><br/>
-
-wren.mcqueary@gmail.com

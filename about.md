@@ -32,5 +32,3 @@ Now, I am undergoing a computer science MS with an emphasis on machine learning,
 
 | [Contact](https://WrenMcQueary.github.io/contact)      | [Projects](https://WrenMcQueary.github.io/projects) |
 | :---:        |        :---: |
-
-wren.mcqueary@gmail.com

@@ -32,5 +32,3 @@ Take a look at my projects to see more details.
 
 | [Get in touch](https://wrenmcqueary.github.io/contact)      |
 | :---:        |
-
-wren.mcqueary@gmail.com

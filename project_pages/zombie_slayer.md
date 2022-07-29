@@ -19,7 +19,3 @@ I also implemented the entirety of the enemy AI, animation, and combat systems, 
 This experience gave me a semester's worth of experience directing a game development team.  Additionally, because this was my first time working in Unity Engine, I gained essential skills in Unity game development, including Unity's C# libraries, scene hierarchy, and management of game objects' components.  I also learned how to develop specifically for VR, including head and hand tracking.
 
 ![Zombie slayer screenshot 0](/images/projects/zombie_slayer/zombie_slayer_screenshot_0.png)
-
-<br/><br/>
-
-wren.mcqueary@gmail.com

@@ -17,7 +17,3 @@ By co-designing the sound system, I've gained new skills in spatial audio captur
 By helping build and test the remote control system, I've learned how to build websocket connections that communicate with Unity Engine.
 
 ![640px circuit info](/images/projects/teleoperated_rescue_robot/640px-Circuit_info.jfif)
-
-<br/><br/>
-
-wren.mcqueary@gmail.com

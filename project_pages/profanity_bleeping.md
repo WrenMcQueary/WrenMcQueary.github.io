@@ -18,7 +18,3 @@ I learned how to use Google Cloud API to process audio remotely, as well as how 
 Because audio processing can sometimes take a while, I learned how to use the tqdm package to provide the user with a progress bar.
 
 ![Code snippet](/images/projects/profanity_bleeping/code_snippet.png)
-
-<br/><br/>
-
-wren.mcqueary@gmail.com

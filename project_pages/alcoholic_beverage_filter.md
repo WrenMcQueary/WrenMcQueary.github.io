@@ -13,7 +13,3 @@ While hardly my first time modeling in Fusion 360, this was my first time produc
 Since this was commission work, I had the opportunity to practice maintaining a positive client relationship while providing a final product to their exact specifications with a rapid turnaround.
 
 ![render2](/images/projects/alcoholic_beverage_filter/render_2.png)
-
-<br/><br/>
-
-wren.mcqueary@gmail.com

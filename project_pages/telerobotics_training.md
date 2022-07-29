@@ -17,7 +17,3 @@ See below for an image of one of our environments, along with another image in w
 By engineering realistic acoustics for our training simulations, I learned how to use industry-standard acoustic tools such as Resonance and FMOD.
 
 ![Medical center room with occluders](/images/projects/telerobotics_training/medical_center_room_with_occluders.png)
-
-<br/><br/>
-
-wren.mcqueary@gmail.com

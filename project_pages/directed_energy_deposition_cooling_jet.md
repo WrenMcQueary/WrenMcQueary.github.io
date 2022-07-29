@@ -15,7 +15,3 @@ To expedite our iteration time, I developed a heat transfer simulator in MATLAB,
 Through this project, I gained vital experience in writing academic-grade physical simulation software for industrial purposes, as well as in feedback control system design and materials selection.  Furthermore, the process of consulting for a large laboratory allowed me to grow in my ability to fulfill the differing needs of many clients on a large project.
 
 ![Example thermal simulation output](/images/projects/directed_energy_deposition_cooling_jet/example_thermal_simulation_output.png)
-
-<br/><br/>
-
-wren.mcqueary@gmail.com

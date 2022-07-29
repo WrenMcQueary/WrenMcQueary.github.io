@@ -21,7 +21,3 @@ I've become proficient with using Git Bash, which allows for easy updating of a 
 I've learned how to read, parse, and modify abstract syntax trees and execution traces (such as the one excerpted below), which are necessary in extracting information from the original failing test and generating similar tests.
 
 ![Execution trace example](/images/projects/ml_causal_testing/execution_trace_example.png)
-
-<br/><br/>
-
-wren.mcqueary@gmail.com
