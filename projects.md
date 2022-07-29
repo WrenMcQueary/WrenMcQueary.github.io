@@ -26,5 +26,7 @@ Click project names to see more details.  You can also check out my [GitHub page
 | ![render0](/images/projects/alcoholic_beverage_filter/render_0.png)   | ![Transparent background](/images/projects/hook_stand_for_3D_printers/transparent_background.png)        | ![Transparent background](/images/projects/breadboard_holder_rack/transparent_background.png)      |
 | Filter contaminants from cheap alcoholic beverages for safer drinking      | Make your 3D printer compatible with more filament roll sizes       | Categorize your breadboards easily and store them compactly   |
 
+<br/><br/>
+
 | [Get in touch](https://wrenmcqueary.github.io/contact)      |
 | :---:        |
