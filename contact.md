@@ -1,5 +1,4 @@
 # Get in touch
 
-wren.mcqueary@gmail.com
-
-TODO: Form and submit button
+Feel free to send me an email at the following address.  I'd be happy to talk with you!
+wren_dot_mcqueary_at_gmu_dot_edu
