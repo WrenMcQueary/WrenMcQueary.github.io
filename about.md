@@ -1,3 +1,8 @@
+---
+sidebar:
+  nav: "docs"
+---
+
 # Bio
 
 MS **Computer Science**, George Mason University, May 2023
