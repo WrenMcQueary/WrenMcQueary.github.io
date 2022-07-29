@@ -8,5 +8,5 @@ defaults:
       sidebar:
         nav: "docs"
 ---
-theme: github-pages-minimal
-markdown: kramdown
+theme: jekyll-theme-minimal
+markdown: GFM
