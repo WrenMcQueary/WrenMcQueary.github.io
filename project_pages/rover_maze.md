@@ -5,7 +5,7 @@
 
 ## Summary
 
-While working at KID Musuem, I developed this game to teach students how to design finite state machines for use in robotics classes and workshops.  I used Prim's algorithm to generate random mazes to be solved by a robot with limited sensing abilities.
+While working at KID Museum, I developed this game to teach students how to design finite state machines for use in robotics classes and workshops.  I used Prim's algorithm to generate random mazes to be solved by a robot with limited sensing abilities.
 
 The robot is ladybug-shaped, with two antennae.  For each antenna, it can sense whether that antenna is touching a wall.  The robot remembers itself to be in one of 4 internal states, and can take actions and switch between states based on rules written by the player and what its antennae sense.
 
