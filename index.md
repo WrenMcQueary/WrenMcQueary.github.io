@@ -4,7 +4,7 @@
 
 ![Wren_McQueary_Office_Photo_1_Blurred.png](/images/Wren_McQueary_Office_Photo_1_Blurred.png "Wren_McQueary_Office_Photo_1_Blurred.png")
 
-I seek to use my wide background in computer science, AI, robotics, and mechanical engineering for social good.
+I seek to use my broad background in computer science, AI, robotics, and mechanical engineering for social good.
 
 I love both learning new skills from others and using my education background to teach them in kind.  I hope to use my skill set and passion for growth to further connect and elevate your team.
 
