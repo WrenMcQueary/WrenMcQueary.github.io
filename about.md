@@ -8,9 +8,9 @@ BS **Theatre**, Northwestern University, June 2019
 
 ## My goals
 
-Computer science and robotics have the power to uplift and equalize, if used responsibly.  I firmly believe that it falls to us, as computer scientists and roboticists, to use these disciplines to their fullest potential for social good.  I hope to join your family of service-minded experts to discover and contribute to the best avenues of doing so.
+I'm an ML tecnologist, backend software engineer, and ethics researcher currently working in ML testing research at the INSPIRED Lab of Dr. Brittany Johnson. I'm looking to get involved in civic technology after I finish my MS program in computer science in May 2023.
 
-Read below to see how my research and academic experiences have positioned me to succeed in industry and motivated me to pursue social equity.
+Read below to see how my research and academic experiences have positioned me to succeed in civic tech and motivated me to pursue social equity.
 
 ## Undergraduate student at Northwestern University
 
@@ -26,9 +26,9 @@ Now, I am undergoing a computer science MS with an emphasis on machine learning,
 
 ## Search for a post-graduation career
 
-I hope to join a team that uses technology to make the world a more equitable place.  I plan to use my mixture of backgrounds in computer science, robotics, and mechanical engineering to enhance my work.  My background in education has taught me how to aid and enrich others, both colleagues and end-users.
+I hope to join a team that uses technology to make the world a more equitable place.  I plan to use my mixture of backgrounds in computer science, robotics, and mechanical engineering to enhance my work.   In addition, my background in education has taught me how to aid and enrich others, both colleagues and end-users.
 
-Now, I am undergoing a computer science MS with an emphasis on machine learning, robotics, and graphics, so that I can develop more intricate and impactful solutions for social problems.  Currently I am working as a paid research assistant in the INSPIRED Lab of Dr. Brittany Johnson, where we are developing a tool to improve the ease of debugging machine learning models, including removing unethical biases from models deployed in social contexts.  At the same time, I am satisfying my interests in robotics for social good by volunteering in the DCXR Lab of Dr. Lap-Fai (Craig) Yu, where we are collaborating with another lab to create a teleoperated robot that can be used in search-and-rescue contexts.
+I'm finishing up a computer science MS with an emphasis on machine learning, robotics, and graphics, so that I can develop more intricate and impactful solutions for social problems.  Currently I am working as a paid research assistant in the INSPIRED Lab of Dr. Brittany Johnson, where we are developing a tool to improve the ease of debugging machine learning models, including removing unethical biases from models deployed in social contexts.  At the same time, I am satisfying my interests in robotics for social good by volunteering in the DCXR Lab of Dr. Lap-Fai (Craig) Yu, where we are collaborating with another lab to create a teleoperated robot that can be used in search-and-rescue contexts.
 
 | [Contact](https://WrenMcQueary.github.io/contact)      | [Projects](https://WrenMcQueary.github.io/projects) |
 | :---:        |        :---: |
