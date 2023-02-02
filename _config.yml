@@ -1,2 +1,2 @@
-remote_theme: pages-themes/minima
+theme: minima
 markdown: GFM
