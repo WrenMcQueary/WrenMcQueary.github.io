@@ -1,9 +1,9 @@
-# Rover maze
+## Rover maze
 
 | [Interactive code (replit)](https://replit.com/@WrenMcQueary/rover-maze#.replit)      | [GitHub repository](https://github.com/WrenMcQueary/rover-maze) |
 | :---:        |    :----:   |
 
-## Summary
+### Summary
 
 While working at KID Museum, I developed this game to teach students how to design finite state machines for use in robotics classes and workshops.  I used Prim's algorithm to generate random mazes to be solved by a robot with limited sensing abilities.
 
@@ -15,7 +15,7 @@ Note: Replit has been a bit inconsistent about supporting windows created by tki
 
 ![Code snippet](/images/projects/rover_maze/code_snippet.png)
 
-## Skills gained
+### Skills gained
 
 I had recently learned unified modeling language before starting this project.  Seeing this project as the perfect opportunity to practice this skill, I maintained a UML graph for the project while developing it, using the graph as a guide for where to create classes, functions, and so on.
 

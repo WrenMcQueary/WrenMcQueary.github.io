@@ -1,4 +1,4 @@
-# Get in touch
+## Get in touch
 
 Feel free to send me an email at the following address.  I'd be happy to talk with you!
 

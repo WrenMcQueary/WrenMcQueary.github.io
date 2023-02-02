@@ -1,6 +1,6 @@
-# Teleoperated rescue robot
+## Teleoperated rescue robot
 
-## Summary
+### Summary
 
 I'm currently collaborating with the DCXR Lab of Dr. Craig Yu at George Mason University, as well as the SubT Lab of Dr. Nick Wang at NYCU in Hsinchu, Taiwan, to build a robot for use in search-and-rescue missions.  The robot is piloted remotely, and is designed to facilitate spatial interpretation of sounds, to assist its pilot in locating calls for help and other critical sounds with high accuracy.
 
@@ -10,7 +10,7 @@ So far, I have made contributions to the audio pipeline which combines audio fro
 
 ![ugv husky sound2](/images/projects/teleoperated_rescue_robot/ugv-husky-sound2.png)
 
-## Skills gained
+### Skills gained
 
 By co-designing the sound system, I've gained new skills in spatial audio capture and transmission.
 

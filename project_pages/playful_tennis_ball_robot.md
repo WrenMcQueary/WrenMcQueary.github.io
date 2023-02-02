@@ -1,6 +1,6 @@
-# Playful tennis ball dog robot
+## Playful tennis ball dog robot
 
-## Summary
+### Summary
 
 As a fun little hobby project, I'm building a small rover that will automatically chase a tennis ball through the house, striking it at a random angle each time it gets close so that ball changes position and the game continues.
 
@@ -12,7 +12,7 @@ I'm in the process of designing and 3D printing a chassis for the robot, with a 
 
 ![Tennis Ball Chasing Rover Bot FSM Draft 1-1](/images/projects/playful_tennis_ball_dog_robot/Tennis_Ball_Chasing_Rover_Bot_FSM_Draft_1-1.png)
 
-## Skills gained
+### Skills gained
 
 This project has helped me brush up on using finite state machines for practical purposes.  It also served as a great teaching example for my time working at KID Museum, to show students how many aspects of design can come together to form a complete robot.
 

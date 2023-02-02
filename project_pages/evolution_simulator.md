@@ -1,9 +1,9 @@
-# Evolution simulator
+## Evolution simulator
 
 | [Interactive code (replit)](https://replit.com/@WrenMcQueary/evolutionsimulator#main.py)      | [GitHub repository](https://github.com/WrenMcQueary/evolution-simulator) |
 | :---:        |    :----:   |
 
-## Summary
+### Summary
 
 This project was designed as a tool for KID Museum in Bethesda, MD for students to understand how evolution emerges from selection pressures.  It features a population of zorks (winged, giraffe-like, savannah-dwelling creatures) and allows the user to tweak parameters such as the severity of the environment, mutation intensity, reproductive habits, and the chance of random accidents killing a well-evolved zork or sparing a poorly-evolved one.
 
@@ -13,7 +13,7 @@ Note: Replit has been a bit inconsistent about supporting the matplotlib 3rd par
 
 ![Parameter menu](/images/projects/evolution_simulator/parameter_menu.png)
 
-## Skills gained
+### Skills gained
 
 This was my first time using a program to teach math concepts to students at KID Museum.  I learned how present input parameters in such a way that a novice can easily manipulate and tinker with them.
 
