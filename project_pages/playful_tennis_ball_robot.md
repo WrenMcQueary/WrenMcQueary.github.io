@@ -1,4 +1,4 @@
-## Playful tennis ball dog robot
+<h2>Playful tennis ball dog robot</h2>
 
 ### Summary
 

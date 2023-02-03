@@ -1,4 +1,4 @@
-## Telerobotics training
+<h2>Telerobotics training</h2>
 
 ### Summary
 

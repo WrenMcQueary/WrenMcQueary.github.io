@@ -1,4 +1,4 @@
-## Alcoholic beverage filter
+<h2>Alcoholic beverage filter</h2>
 
 ### Summary
 

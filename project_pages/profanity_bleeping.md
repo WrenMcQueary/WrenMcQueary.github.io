@@ -1,4 +1,4 @@
-## Profanity bleeping
+<h2>Profanity bleeping</h2>
 
 | [GitHub repository](https://github.com/WrenMcQueary/profanity-bleeping)      |
 | :---:        |

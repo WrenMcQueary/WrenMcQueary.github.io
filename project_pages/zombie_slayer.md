@@ -1,4 +1,4 @@
-## Zombie Slayer
+<h2>Zombie Slayer</h2>
 
 | [External website](https://talmadgeeller.github.io/Zombie-Slayer/)      |
 | :---:        |

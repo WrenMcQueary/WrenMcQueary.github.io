@@ -1,4 +1,4 @@
-## Rover maze
+<h2>Rover maze</h2>
 
 | [Interactive code (replit)](https://replit.com/@WrenMcQueary/rover-maze#.replit)      | [GitHub repository](https://github.com/WrenMcQueary/rover-maze) |
 | :---:        |    :----:   |

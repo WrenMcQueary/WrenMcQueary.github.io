@@ -1,4 +1,4 @@
-## Breadboard holder rack
+<h2>Breadboard holder rack</h2>
 
 ### Summary
 

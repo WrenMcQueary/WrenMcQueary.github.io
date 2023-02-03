@@ -1,4 +1,4 @@
-## Directed energy deposition cooling jet
+<h2>Directed energy deposition cooling jet</h2>
 
 ### Summary
 

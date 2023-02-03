@@ -1,4 +1,4 @@
-## Current and past projects
+<h2>Current and past projects</h2>
 
 Click project names to see more details.  You can also check out my [GitHub page.](https://github.com/WrenMcQueary)
 

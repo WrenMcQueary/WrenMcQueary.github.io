@@ -1,4 +1,4 @@
-## Bio
+<h2>Bio</h2>
 
 MS **Computer Science**, George Mason University, May 2023
 

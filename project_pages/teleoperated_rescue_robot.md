@@ -1,4 +1,4 @@
-## Teleoperated rescue robot
+<h2>Teleoperated rescue robot</h2>
 
 ### Summary
 
