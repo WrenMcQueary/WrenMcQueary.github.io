@@ -1,4 +1,4 @@
-## Software engineering, robotics, game development, 3D modeling and rendering
+<h2>Software engineering, robotics, game development, 3D modeling and rendering</h2>
 
 ### Welcome to my portfolio!
 
