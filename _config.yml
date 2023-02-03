@@ -1,6 +1,6 @@
 theme: minima
 minima:
-  skin: solarized-light
+  skin: dark
 markdown: GFM
 header_pages:
   - about.md
