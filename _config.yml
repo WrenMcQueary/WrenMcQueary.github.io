@@ -1,9 +1,8 @@
 theme: minima
+  skin: dark
 markdown: GFM
 header_pages:
   - about.md
   - contact.md
   - index.md
   - projects.md
-minima:
-  skin: dark
