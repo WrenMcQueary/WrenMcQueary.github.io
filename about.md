@@ -8,7 +8,7 @@ BS **Theatre**, Northwestern University, June 2019
 
 ### My goals
 
-I'm an ML tecnologist, backend software engineer, and ethics researcher currently working in ML testing research at the INSPIRED Lab of Dr. Brittany Johnson. I'm looking to get involved in civic technology after I finish my MS program in computer science in May 2023.
+I'm an ML tecnologist, backend software engineer, and ethics researcher currently working in ML testing research at the INSPIRED Lab of Dr. Brittany Johnson. I'm looking to get involved in social impact technology after I finish my MS program in computer science in May 2023.
 
 Read below to see how my research and academic experiences have positioned me to succeed in civic tech and motivated me to pursue social equity.
 
