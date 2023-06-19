@@ -8,9 +8,9 @@ BS **Theatre**, Northwestern University, June 2019
 
 ### My goals
 
-I'm an ML tecnologist, backend software engineer, and ethics researcher currently working in ML testing research at the INSPIRED Lab of Dr. Brittany Johnson. I'm looking to get involved in social impact technology after I finish my MS program in computer science in May 2023.
+I'm a public interest technologist, ML tecnologist, data scientist, and backend software engineer currently working a 10-week fellowship at the U.S. Census Bureau. I'm looking to continue my involvement in public interest technology after I finish my fellowship in August 2023.
 
-Read below to see how my research and academic experiences have positioned me to succeed in social impact tech and motivated me to pursue social equity.
+Read below to see how my research and academic experiences have positioned me to succeed in public interest tech and motivated me to pursue social equity.
 
 ### Undergraduate student at Northwestern University
 
@@ -24,11 +24,11 @@ To this end, I joined KID Museum, a DC-area STEM education nonprofit for element
 
 Now, I am undergoing a computer science MS with an emphasis on machine learning, robotics, and graphics, so that I can develop more intricate and impactful solutions for social problems.  Currently I am working as a paid research assistant in the INSPIRED Lab of Dr. Brittany Johnson, where we are developing a tool to improve the ease of debugging machine learning models, including removing unethical biases from models deployed in social contexts.  At the same time, I am satisfying my interests in robotics for social good by volunteering in the DCXR Lab of Dr. Lap-Fai (Craig) Yu, where we are collaborating with another lab to create a teleoperated robot that can be used in search-and-rescue contexts.
 
-### Search for a post-graduation career
+### Post-graduate career
 
-I hope to join a team that uses technology to make the world a more equitable place.  I plan to use my mixture of backgrounds in computer science, robotics, and mechanical engineering to enhance my work.   In addition, my background in education has taught me how to aid and enrich others, both colleagues and end-users.
+I'm currently working a 10-week fellowship with the U.S. Census Bureau as a data scientist.  After my fellowship concludes, I hope to join a team -- governmental, public, or private -- that uses technology to make the world a more equitable place.  I plan to use my mixture of backgrounds in computer science, robotics, and mechanical engineering to enhance my work.   In addition, my background in education has taught me how to aid and enrich others, both colleagues and end-users.
 
-I'm finishing up a computer science MS with an emphasis on machine learning, robotics, and graphics, so that I can develop more intricate and impactful solutions for social problems.  Currently I am working as a paid research assistant in the INSPIRED Lab of Dr. Brittany Johnson, where we are developing a tool to improve the ease of debugging machine learning models, including removing unethical biases from models deployed in social contexts.  At the same time, I am satisfying my interests in robotics for social good by volunteering in the DCXR Lab of Dr. Lap-Fai (Craig) Yu, where we are collaborating with another lab to create a teleoperated robot that can be used in search-and-rescue contexts.
+With my master's degree, professional exeprience working in federal government, and research experience, I can develop intricate and impactful solutions for social problems.
 
 | [Contact](https://WrenMcQueary.github.io/contact)      | [Projects](https://WrenMcQueary.github.io/projects) |
 | :---:        |        :---: |
