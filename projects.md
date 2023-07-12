@@ -3,10 +3,16 @@
 Click project names to see more details.  You can also check out my [GitHub page.](https://github.com/WrenMcQueary)
 
 ### Software engineering projects
-| [ML CAUSAL TESTING](https://wrenmcqueary.github.io/project_pages/ml_causal_testing)      | [EVOLUTION SIMULATOR](https://wrenmcqueary.github.io/project_pages/evolution_simulator) | [PROFANITY BLEEPING](https://wrenmcqueary.github.io/project_pages/profanity_bleeping)     |
-| :---:        |    :----:   |          :---: |
-| ![Code snippet](/images/projects/ml_causal_testing/code_snippet.png)   | ![Simulation results](/images/projects/evolution_simulator/simulation_results.png)        | ![Bleeped audio](/images/projects/profanity_bleeping/bleeped_audio.png)      |
-| Introducing py-holmes, a tool for machine learning engineers to find the root causes of defects      | Tune environmental pressure, reproductive patterns, and more to change how a population evolves       | Quickly bleep audio in educational videos, for use in high school and college classrooms   |
+|               [DEEP-LEARNING-ASSISTED TABLE EXTRACTION FROM PDFS](https://wrenmcqueary.github.io/project_pages/ml_causal_testing)                | [HUMAN TISSUE SEGMENTATION](https://wrenmcqueary.github.io/project_pages/human_tissue_segmentation) | [SOCIAL ARGUMENT FRAMING RECOGNITION](https://wrenmcqueary.github.io/project_pages/social_argument_framing_recognition) |
+|:------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|
+|                   ![Before and after](/images/projects/deep_learning_assisted_table_extraction_from_pdfs/before_and_after.png)                   |    ![Segmentation results](/images/projects/human_tissue_segmentation/segmentation_results.png)     |        ![The 15 framing dimensions](/images/projects/social_argument_framing_recognition/framing_dimensions.png)        |
+| I built some large language models for the U.S. Census Bureau to wrangle a flow of chaotically formatted PDFs that had been clogging data ingest |         Accurately and automatically identify functional tissue units on microscope slides          |                Categorize how news articles and opinion pieces frame their arguments about social issues                |
+
+|          [ML CAUSAL TESTING](https://wrenmcqueary.github.io/project_pages/ml_causal_testing)           | [EVOLUTION SIMULATOR](https://wrenmcqueary.github.io/project_pages/evolution_simulator) | [PROFANITY BLEEPING](https://wrenmcqueary.github.io/project_pages/profanity_bleeping)     |
+|:------------------------------------------------------------------------------------------------------:|    :----:   |          :---: |
+|                  ![Code snippet](/images/projects/ml_causal_testing/code_snippet.png)                  | ![Simulation results](/images/projects/evolution_simulator/simulation_results.png)        | ![Bleeped audio](/images/projects/profanity_bleeping/bleeped_audio.png)      |
+| Introducing py-holmes-dl, a tool helping machine learning engineers to find the root causes of defects | Tune environmental pressure, reproductive patterns, and more to change how a population evolves       | Quickly bleep audio in educational videos, for use in high school and college classrooms   |
+
 
 ### Robotics projects
 | [TELEOPERATED RESCUE ROBOT](https://wrenmcqueary.github.io/project_pages/teleoperated_rescue_robot)      | [DIRECTED ENERGY DEPOSITION COOLING JET](https://wrenmcqueary.github.io/project_pages/directed_energy_deposition_cooling_jet) | [PLAYFUL TENNIS BALL DOG ROBOT](https://wrenmcqueary.github.io/project_pages/playful_tennis_ball_robot)     |

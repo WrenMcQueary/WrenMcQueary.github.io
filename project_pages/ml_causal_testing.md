@@ -1,20 +1,22 @@
 <h2>ML causal testing</h2>
 
-| [GitHub](https://github.com/INSPIRED-GMU/py-holmes-public)      |
+| [GitHub](https://github.com/INSPIRED-GMU/)      |
 | :---:        |
 
 ### Summary
 
-Determining the root cause of a unit test failure usually takes up a significant portion of debugging time.  And when training machine learning models, finding the root cause can be especially time-consuming, as these models tend to be black boxes.  I'm currently working in the INSPIRED Lab of Dr. Brittany Johnson at George Mason University to develop a tool called py-holmes, which will present Python developers with a set of mutated versions of the original failing test, to streamline the debugging process.  I will be first author on an upcoming paper discussing this tool.
+Determining the root cause of a unit test failure usually takes up a significant portion of debugging time.  And when training machine learning models, finding the root cause can be especially time-consuming, as these models tend to be black boxes.  I worked as a paid researcher in the INSPIRED Lab of Dr. Brittany Johnson at George Mason University to develop a tool called py-holmes-dl, which streamlines the debugging process for neural nets by showing developers exactly what dimensions of the input their model failed to attend to.  I will be first author on an upcoming paper discussing this tool.
 
-The public version of py-holmes is available via the button above.  Dr. Johnson previously developed a version of the tool for Java, called Holmes.  Below is an example of Holmes running in Eclipse IDE.
+![5 mutations](/images/projects/ml_causal_testing/5_mutations.png)
 
-![CREDIT BRITTANY JOHNSON: Java Holmes example](/images/projects/ml_causal_testing/CREDIT_BRITTANY_JOHNSON_java_holmes_example.png)
+At time of writing, user testing of py-holmes-dl is still under way, so the tool and its paper have not been released to the public yet.  When they are, py-holmes-dl will be available on the lab's GitHub page above.
+
+A non-deep-learning version of the tool is already available via [this link](https://github.com/INSPIRED-GMU/py-holmes-public).  Dr. Johnson previously developed a version of the non-deep-learning tool for Java, called Holmes.
 
 ### Skills gained
 By conferring with faculty experts in various machine learning models and applications, I've broadened and deepened my knowledge of the ML landscape and how to implement ML models.
 
-By using tools such as caches to read the user's project files in minimal time, I've been consolidating past experience in optimization.
+By using tools such as caches to read the user's project files in minimal time, I've been consolidating my past experience in optimization.
 
 I've become proficient with using Git Bash, which allows for easy updating of a GitHub repository.
 

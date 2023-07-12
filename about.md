@@ -8,7 +8,7 @@ BS **Theatre**, Northwestern University, June 2019
 
 ### My goals
 
-I'm a public interest technologist, ML tecnologist, data scientist, and backend software engineer currently working a 10-week fellowship at the U.S. Census Bureau. I'm looking to continue my involvement in public interest technology after I finish my fellowship in August 2023.
+I'm a public interest technologist, ML technologist, data scientist, and backend software engineer currently working a 10-week fellowship at the U.S. Census Bureau. I'm looking to continue my involvement in public interest technology after I finish my fellowship in August 2023.
 
 Read below to see how my research and academic experiences have positioned me to succeed in public interest tech and motivated me to pursue social equity.
 
@@ -18,17 +18,17 @@ While studying mechanical engineering for my undergraduate, I focused my efforts
 
 ### KID Museum
 
-To this end, I joined KID Museum, a DC-area STEM education nonprofit for elementary and middle school students.  there, I gave one-on-one Python and Raspberry Pi classes, as well as hands-on group lessons in NLP, Arduino, Micro Bit, Scratch, Lego Mindstorms, and machine theory.  I steered our educational content toward socially conscious coding workshops, such as emotional wellness apps and contagion models, to help students better process the experience of living in a pandemic.  I used a steady flow of personal projects to inspire students, including a tic-tac-toe AI, an evolution simulator, and a program to protect peaceful protesters by translating jargon on legal police scanners.  Throughout this work, I helped children take control of the programmable world around them.  However, my drive for computational sophistication and social reach outgrew KID Museum's scope, so I began a graduate program in computer science.
+To this end, I joined KID Museum, a DC-area STEM education nonprofit for elementary and middle school students.  At KID Museum, I gave one-on-one Python and Raspberry Pi classes, as well as hands-on group lessons in NLP, Arduino, Micro Bit, Scratch, Lego Mindstorms, and machine theory.  I steered our educational content toward socially conscious coding workshops, such as emotional wellness apps and contagion models, to help students better process the experience of living in a pandemic.  I used a steady flow of personal projects to inspire students, including a tic-tac-toe AI, an evolution simulator, and a program to protect peaceful protesters by translating jargon on legal police scanners.  Throughout this work, I helped children take control of the programmable world around them.  However, my drive for computational scope and social reach outgrew KID Museum's domain, so I began a graduate program in computer science.
 
 ### Graduate student at George Mason University
 
-Now, I am undergoing a computer science MS with an emphasis on machine learning, robotics, and graphics, so that I can develop more intricate and impactful solutions for social problems.  Currently I am working as a paid research assistant in the INSPIRED Lab of Dr. Brittany Johnson, where we are developing a tool to improve the ease of debugging machine learning models, including removing unethical biases from models deployed in social contexts.  At the same time, I am satisfying my interests in robotics for social good by volunteering in the DCXR Lab of Dr. Lap-Fai (Craig) Yu, where we are collaborating with another lab to create a teleoperated robot that can be used in search-and-rescue contexts.
+To equip myself with the skills to develop more intricate and impactful public interest projects, I undertook a computer science MS with an emphasis on machine learning, AI fairness, natural language processing, computer vision, and robotics.  I spent a year and a half working as a paid researcher in the INSPIRED Lab of Dr. Brittany Johnson, where I developed a tool to improve the ease of debugging machine learning models, including removing unethical biases from models deployed in society.  At the same time, I joined some projects in robotics for social good, volunteering in the DCXR Lab of Dr. Lap-Fai (Craig) Yu, where we collaborated with another lab in Taiwan to create a teleoperated robot that can be used in search-and-rescue contexts.
 
 ### Post-graduate career
 
-I'm currently working a 10-week fellowship with the U.S. Census Bureau as a data scientist.  After my fellowship concludes, I hope to join a team -- governmental, public, or private -- that uses technology to make the world a more equitable place.  I plan to use my mixture of backgrounds in computer science, robotics, and mechanical engineering to enhance my work.   In addition, my background in education has taught me how to aid and enrich others, both colleagues and end-users.
+I'm currently working a 10-week fellowship with the U.S. Census Bureau as a data scientist.  After my fellowship concludes, I hope to join a civic tech organization that uses technology to make our government more equitable, just, and responsive.  I plan to use my mixture of backgrounds in software testing and development, research, machine learning, robotics, and education to enhance my work.
 
-With my master's degree, professional exeprience working in federal government, and research experience, I can develop intricate and impactful solutions for social problems.
+With my master's degree, professional experience working in federal government, and research experience, I can develop intricate and impactful solutions for social problems.
 
 | [Contact](https://WrenMcQueary.github.io/contact)      | [Projects](https://WrenMcQueary.github.io/projects) |
 | :---:        |        :---: |
