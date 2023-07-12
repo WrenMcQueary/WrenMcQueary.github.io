@@ -5,7 +5,7 @@
 
 ### Summary
 
-Kaggle's <i>HuBMAP + HPA - Hacking the Human Body</i> competition involve segmenting functional tissue units (FTUs) in images of human tissue microscope slides.  The top 5 submissions to the project finetune a pretrained UNet model.  I investigated whether at DeepLabV3 model might perform better at the task, since this newer model is designed to be particularly robust to changes in scale, which are common in microscopy.  While I found DeepLabV3 to be unsuitable, I found that transferring the same hyperparameters used for my best DeepLabV3 model to a UNet architecture resulted in a model that ranked in the top 5 of Kaggle submissions on the very first attempt.
+Kaggle's <i>HuBMAP + HPA - Hacking the Human Body</i> competition involves segmenting functional tissue units (FTUs) in images of human tissue microscope slides.  The top 5 submissions to the project finetune a pretrained UNet model.  I investigated whether at DeepLabV3 model might perform better at the task, since this newer model is designed to be particularly robust to changes in scale, which are common in microscopy.  While I found DeepLabV3 to be unsuitable, I found that transferring the same hyperparameters used for my best DeepLabV3 model to a UNet architecture resulted in a model that ranked in the top 5 of Kaggle submissions on the very first attempt.
 
 The figure below shows four slides from the validation dataset, along with the ground truth segmentation labels.  As can be seen, my UNet model segments the samples to a high standard of accuracy, even though the corresponding DeepLabV3 model performed poorly.
 
