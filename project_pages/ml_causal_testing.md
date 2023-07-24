@@ -14,6 +14,8 @@ At time of writing, user testing of py-holmes-dl is still under way, so the tool
 A non-deep-learning version of the tool is already available via [this link](https://github.com/INSPIRED-GMU/py-holmes-public).  Dr. Johnson previously developed a version of the non-deep-learning tool for Java, called Holmes.
 
 ### Skills gained
+I've learned a lot about UX research by undertaking this project.  I've written scripts for user tests and interiews, identified end user personas and determined pain points, and learned to use Atlas.ti, DoveTail, and EnjoyHQ to code qualitative data.
+
 By conferring with faculty experts in various machine learning models and applications, I've broadened and deepened my knowledge of the ML landscape and how to implement ML models.
 
 By using tools such as caches to read the user's project files in minimal time, I've been consolidating my past experience in optimization.
