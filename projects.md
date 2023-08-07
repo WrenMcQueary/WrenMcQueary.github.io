@@ -1,6 +1,6 @@
 <h2>Current and past projects</h2>
 
-Click project names to see more details.  You can also check out my [GitHub page.](https://github.com/WrenMcQueary)
+Click project names to see more details.  You can also view my resume on [my LinkedIn page](https://www.linkedin.com/in/wren-mcqueary-121018118/), or view [GitHub page](https://github.com/WrenMcQueary) for more projects.
 
 ### Software engineering projects
 |               [DEEP-LEARNING-ASSISTED TABLE EXTRACTION FROM PDFS](https://wrenmcqueary.github.io/project_pages/deep_learning_assisted_table_extraction_from_pdfs)                | [HUMAN TISSUE SEGMENTATION](https://wrenmcqueary.github.io/project_pages/human_tissue_segmentation) | [SOCIAL ARGUMENT FRAMING RECOGNITION](https://wrenmcqueary.github.io/project_pages/social_argument_framing_recognition) |
