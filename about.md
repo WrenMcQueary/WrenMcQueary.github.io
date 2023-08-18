@@ -1,14 +1,14 @@
 <h2>Bio</h2>
 
-MS **Computer Science**, George Mason University, May 2023
+MS **Computer Science**, George Mason University
 
-BS **Mechanical Engineering**, Northwestern University, June 2019
+BS **Mechanical Engineering**, Northwestern University
 
-BS **Theatre**, Northwestern University, June 2019
+BS **Theatre**, Northwestern University
 
 ### My goals
 
-I'm a public interest technologist, ML technologist, data scientist, and backend software engineer currently working a 10-week fellowship at the U.S. Census Bureau. I'm looking to continue my involvement in public interest technology after I finish my fellowship in August 2023.
+I'm a public interest technologist, ML technologist, data scientist, and backend software engineer currently working a 10-week fellowship at the U.S. Census Bureau. I'm looking to continue my involvement in public interest technology after I finish my fellowship in October 2023.
 
 Read below to see how my research and academic experiences have positioned me to succeed in public interest tech and motivated me to pursue social equity.
 
