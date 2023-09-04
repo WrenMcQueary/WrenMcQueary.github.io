@@ -26,7 +26,7 @@ To equip myself with the skills to develop more intricate and impactful public i
 
 ### Post-graduate career
 
-I'm currently working as a Data Science Fellow at the U.S. Census Bureau as a data scientist.  I'm looking to continue my involvement in public interest technology after I finish my fellowship in October 2023.
+I'm currently working as a Data Science Fellow at the U.S. Census Bureau.  I'm looking to continue my involvement in public interest technology after I finish my fellowship in October 2023.
 
 With my master's degree, professional experience working in federal government, and research experience, I can develop intricate and impactful solutions for social problems.
 
