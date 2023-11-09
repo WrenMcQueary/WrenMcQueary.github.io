@@ -8,7 +8,7 @@ BS **Theatre**, Northwestern University
 
 ### My goals
 
-I'm a public interest technologist, ML technologist, data scientist, and backend software engineer currently working a 10-week fellowship at the U.S. Census Bureau. I'm looking to continue my involvement in public interest technology after I finish my fellowship in October 2023.
+I'm a public interest technologist, ML technologist, data scientist, and backend software engineer currently working as a Data Science Fellow at the U.S. Census Bureau. I'm looking to continue my involvement in public interest technology after I complete my fellowship.
 
 Read below to see how my research and academic experiences have positioned me to succeed in public interest tech and motivated me to pursue social equity.
 
@@ -26,7 +26,7 @@ To equip myself with the skills to develop more intricate and impactful public i
 
 ### Post-graduate career
 
-I'm currently working as a Data Science Fellow at the U.S. Census Bureau.  I'm looking to continue my involvement in public interest technology after I finish my fellowship in October 2023.
+I'm currently working as a Data Science Fellow at the U.S. Census Bureau.  I'm looking to continue my involvement in public interest technology after I complete my fellowship.
 
 With my master's degree, professional experience working in federal government, and research experience, I can develop intricate and impactful solutions for social problems.
 
